@@ -1,6 +1,6 @@
-Title: "All About My Professional Path"
-Logo: image1/ng.jpg
-Description: "THE Overall view of my work as a Data Analyst"
+title: "All About My Professional Path"
+logo: image1/ng.jpg
+description: "THE Overall view of my work as a Data Analyst"
 show_downloads: true
-theme: jekll-theme-aninal
-lang: an
+theme: jekyll-theme-minimal
+lang: en
