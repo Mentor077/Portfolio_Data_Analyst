@@ -100,7 +100,7 @@ results to turn numbers into **concrete actions**.
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | your.email@example.com |
+| 📧 **Email** |mentormalonga17@gmail|
 | 💼 **LinkedIn** | [My LinkedIn Profile](LIEN_LINKEDIN) |
 | 🐙 **GitHub** | [My GitHub Profile](LIEN_GITHUB) |
 
